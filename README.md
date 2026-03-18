@@ -13,6 +13,10 @@ Designed to manage daily operations of a cake shop, including inventory, orders,
 - User-friendly VB.NET interface  
 
 ---
+## ⚙️ Screenshot
+<img src="https://github.com/user-attachments/assets/ca48a219-4cf9-4abe-b4f1-afbfb8af4dcb" width="600"/>
+
+---
 
 ## ⚙️ Requirements
 
